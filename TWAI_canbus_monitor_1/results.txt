@@ -1,0 +1,27 @@
+Driver installed
+Driver started
+CAN Alerts reconfigured
+Serial data avalilabe 
+⏳ Parsing: 123 11 22 33 44 55 66 77 88
+Message queued for transmission 
+✅ Sent CAN ID 0x123  Data: 11 22 33 44 55 66 77 88 
+Alert: The Transmission was successful.:  TX buffered: 0	
+Serial data avalilabe 
+⏳ Parsing: 7DF 02 01 0C
+Message queued for transmission 
+✅ Sent CAN ID 0x7DF  Data: 02 01 0C 
+Alert: The Transmission was successful.:  TX buffered: 0	
+Serial data avalilabe 
+⏳ Parsing: 1AB 0A 0B 0C
+Message queued for transmission 
+✅ Sent CAN ID 0x1AB  Data: 0A 0B 0C 
+Alert: The Transmission was successful.:  TX buffered: 0	
+
+---------------------------------------------------
+
+UNO receiver
+
+Standard ID: 0x123       DLC: 8  Data: 0x11 0x22 0x33 0x44 0x55 0x66 0x77 0x88 "3DUfw #
+Standard ID: 0x7DF       DLC: 3  Data: 0x02 0x01 0x0C DUfw   
+Standard ID: 0x1AB       DLC: 3  Data: 0x0A 0x0B 0x0C 
+DUfw  
